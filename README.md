@@ -1,16 +1,16 @@
 # desafio_animacao_controlada
 
-A new Flutter project.
+MasterClass Flutterando.
 
-## Getting Started
+## Animações Controladas - Botão
 
-This project is a starting point for a Flutter application.
+Desafio realizado com Animações Controladas que dão total "controle" das animações, basta pensar em onde precisa ser animado. 
+O legal é que podemos começar fazendo os Controllers que imagina e depois vai adicionando conforme a necessidade ou retirando-os!
 
-A few resources to get you started if this is your first Flutter project:
+Segue o resultado:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+https://user-images.githubusercontent.com/86212446/146956448-f1f88d0a-5f94-4a81-ba93-be236dcf2b67.mp4
+
